@@ -21,37 +21,37 @@
 	<p>
     <strong>Accompanying you in your one wild life</strong>
   </p>
+  <hr>
   <p>
-    I love walking alongside people - gently listening, asking questions and exploring with curiosity and love - helping people discover their next steps through their unique wisdom.
+    Are you longing for deeper love and connection?
   </p>
   <p>
-    I've been told my presence is 
+    Are you feeling lonely? Stuck? Curious about what more is possible for you?
+  </p>
+  <p>
+    Would you love to feel someone walking alongside you? Someone gently listening, asking questions and helping you explore yourself and navigate the world around you with curiosity? Would you love to take your next steps with own unique wisdom and intuition?
+  </p>
+  <p>
+    
     <quote>
-      "like a warm hug"
-    </quote>
-    and that I can
-    <quote>
-      "create a space of unconditional, non-judgemental love"
+      "Pete is a kind, loving and respectful teacher who can really give people the nourishment they need to grow. I’m often amazed at Pete’s communication ability and interpersonal virtuosity. He has a knack for saying the right thing, at the right time, in just the right way it needs to be said. An amazing instinct." - Rupert
     </quote>
   </p>
   <p>
-    Some of the greatest joys in my life is seeing the people I've walked with flourishing - finding their love, belonging and contributions.
-  </p>
-  <p>
-    As of writing this, 17 July 2021, I'm starting a journey of turning this passion of four years into a livelihood.
+    As of writing this, 17 July 2021, I'm starting a journey of turning this passion into profession and livelihood.
   </p>
   <p>
     <strong>
       So I'm inviting you to walk with me.
     </strong>
   </p>
-  <p>
-    We can jump on a <mark>half hour call</mark> to sense if we'll be a good fit to walk together.
+  <p class="monospace larger">
+    📅☎️ <a href="#">Book a half hour call</a> to discover if we'll be a good fit to walk together.
   </p>
   <p class="mb-0">
     If it's feeling good, we'll
   </p>
-  <ul class="no-dot">
+  <ul class="no-dot monospace">
     <li>
       choose a starting call rhythm - weekdays, twice a week, or weekly
     </li>
@@ -65,6 +65,9 @@
       decide a duration we'd like to commit to - perhaps 3 sessions or a week.
     </li>
   </ul>
+  <p class="monospace larger">
+    🤲 24 hours after each session, I'll invite you to reflect on the value of the session for you, and to give a koha - monetary or other.
+  </p>
 
 </section>
 
@@ -85,11 +88,21 @@
     max-width: 500px;
   }
 
-  mark {
+  a {
+    font-weight: 600;
+    color: rgb(94, 72, 0);
+    background-color: none;
     background: linear-gradient(180deg, rgba(255,255,255,0) 75%, #2dee2372 75%);
   }
   quote {
-    background: linear-gradient(180deg, rgba(255,255,255,0) 75%, #fdc02572 75%);
+    display: block;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.6em;
+    padding-left: 40px;
+    color: rgb(94, 72, 0);
+    /* padding-top: 30px; */
+    background: linear-gradient(90deg, #fdc02572 5%, rgba(255,255,255,0) 5%);
+    /* background: linear-gradient(90deg, #fdc02572 5%, rgba(255,255,255,0) 5%),  linear-gradient(180deg, #fdc02572 5%, rgba(255,255,255,0) 5%); */
   }
 
   quote::before {
@@ -101,8 +114,21 @@
     content: "\A"
   }
 
+  .monospace {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.8em;
+  }
+
+  li {
+    font-size: 1.5em;
+  }
+
+  .larger {
+    font-size: 1.2em;
+  }
+
 	.outer-wrapper {
-    padding: 20px;
+    padding: 30px;
     display: flex;
     flex-direction: column;
     align-items: center;

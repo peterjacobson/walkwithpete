@@ -48,12 +48,15 @@ li {
 }
 
 a {
-	color: var(--accent-color);
 	text-decoration: none;
 }
 
 a:hover {
 	text-decoration: underline;
+}
+
+hr {
+  width: 100%
 }
 
 h1 {
