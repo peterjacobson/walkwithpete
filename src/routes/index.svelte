@@ -38,7 +38,7 @@
     </quote>
   </p>
   <p>
-    As of writing this, 17 July 2021, I'm starting a journey of turning this passion into profession and livelihood.
+    As of writing this, 17 July 2021, I'm continuing my journey of turning this passion for accompanying people into a livelihood.
   </p>
   <p>
     <strong>
@@ -46,7 +46,7 @@
     </strong>
   </p>
   <p class="monospace larger">
-    📅☎️ <a href="#">Book a half hour call</a> to discover if we'll be a good fit to walk together.
+    📅☎️ <a target="_blank" href="https://calendly.com/peterjacobson-nz/30-min-are-we-a-good-fit-to-travel-together-chat">Book a half hour call</a> to discover if we'll be a good fit to walk together.
   </p>
   <p class="mb-0">
     If it's feeling good, we'll
@@ -66,8 +66,9 @@
     </li>
   </ul>
   <p class="monospace larger">
-    🤲 24 hours after each session, I'll invite you to reflect on the value of the session for you, and to give a koha - monetary or other.
+    🤲 24 hours after each session, I'll invite you to reflect on the value of the session for you, and to gift me a koha - monetary or other.
   </p>
+
 
 </section>
 
